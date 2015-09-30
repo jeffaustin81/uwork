@@ -1,0 +1,9 @@
+IMG.img-responsive {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  height: 300px;
+  width: 300px;
+}
